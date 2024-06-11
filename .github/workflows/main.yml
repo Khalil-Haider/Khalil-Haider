@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: generate snake animation
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -23,7 +23,7 @@ jobs:
         run: |
           git config --global user.email "khkhalilhaider@gmail.com"
           git config --global user.name "Khalil-Haider"
-      - name: push snake
+      - name: Push snake
         env:
           PAT: ${{ secrets.PAT }}
         run: |
