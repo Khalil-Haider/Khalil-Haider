@@ -19,12 +19,14 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Configure Git
+        run: |
+          git config --global user.email "khkhalilhaider@gmail.com"
+          git config --global user.name "Khalil-Haider"
       - name: push snake
         env:
           PAT: ${{ secrets.PAT }}
         run: |
-          git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
           git add dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
           git commit -m "Generate snake animation"
           git push https://$PAT@github.com/${{ github.repository_owner }}/${{ github.repository }}.git HEAD:main --force
