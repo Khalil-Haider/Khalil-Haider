@@ -47,6 +47,11 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/1381301/66535560-d3422200-eace-11e9-9123-5535d469db19.png" alt="AI Network" style="width: 100%; max-width: 600px;"/>
 </div>
+<div align="center">
+    <video autoplay loop muted playsinline src="https://s3.ezgif.com/tmp/ezgif-3-3ca6cfa9d7.gif" alt="Your Alt Text" style="width: 100%; max-width: 600px;"></video>
+</div>
+<br/>
+
 
 <br/>
 
