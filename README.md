@@ -10,7 +10,15 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Enhancing my skills in machine learning , deep learning and image pre_processing**
+ 
+ ## 🔭 Skills and Focus Areas
+
+- **Natural Language Processing (NLP)**: Enhancing expertise in NLP techniques and applications.
+- **Large Language Model (LLM) Development**: Building  LLMs for various tasks.
+- **Retrieval-Augmented Generation (RAG) Systems**: Implementing RAG architectures to improve information retrieval and generation.
+- **Machine Learning**: Deepening understanding of machine learning algorithms and methodologies.
+- **Deep Learning**: Exploring advanced deep learning frameworks and architectures.
+
  
  🌱 I’m currently learning **advanced machine learning techniques , data visualization ,deep learning and image pre_processing**
 
