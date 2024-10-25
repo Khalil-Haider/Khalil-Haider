@@ -1,41 +1,38 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=khalilhaider.khalilhaider" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=khalilhaider.khalilhaider" alt="visitor badge" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khalil+Haider!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khalil+Haider!" alt="typing intro" />
 </h1>
 
 <h3 align="center">A passionate Computer Science student with a focus on Artificial Intelligence</h3>
 
+---
+
+### 🌱 Current Learning Focus
+
+I am currently exploring applications of **Large Language Models (LLMs)** in various areas, including:
+
+- **Conversational AI**: Engaging in chat interactions using video, audio, and documents.
+- **Media Conversion**: Transforming videos to audio and audio to text.
+- **Speech Generation**: Converting text into natural-sounding voice outputs.
+
+### 💬 Ask me about
+**Machine learning, deep learning, and data analysis**
+
+### ⚡ Fun fact
+I love exploring new AI technologies and applying them to solve real-world problems.
+
+
+
 <br/>
 
-<div align="center">
- 
- 
- ## 🔭 Skills and Focus Areas
-
-- **Natural Language Processing (NLP)**: Enhancing expertise in NLP techniques and applications.
-- **Large Language Model (LLM) Development**: Building  LLMs for various tasks.
-- **Retrieval-Augmented Generation (RAG) Systems**: Implementing RAG architectures to improve information retrieval and generation.
-- **Machine Learning**: Deepening understanding of machine learning algorithms and methodologies.
-- **Deep Learning**: Exploring advanced deep learning frameworks and architectures.
-
- 
- 🌱 I’m currently learning **advanced machine learning techniques , data visualization ,deep learning and image pre_processing**
-
-💬 Ask me about **machine learning, deep learning, and data analysis**
-
-⚡ Fun fact **I love exploring new AI technologies and applying them to solve real-world problems**
-
-</div>
- 
 <div align="center"> 
-  <a href="mailto:khalilhaider@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/khalilhaider" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-
+    <a href="mailto:khalilhaider@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://linkedin.com/in/khalilhaider" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
 </div>
 
 <hr/>
