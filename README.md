@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Computer Science student with a focus on Artificial Intelligence</h3>
 
 ---
-
+ 
 ### 🌱 Current Learning Focus
 
 I am currently exploring applications of **Large Language Models (LLMs)** in various areas, including:
