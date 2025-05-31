@@ -46,15 +46,7 @@ I love exploring new AI technologies and applying them to solve real-world probl
     <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*ePDVAObHJ2LXEiBPzvh5Qg.png" alt="AI Image" style="width: 100%; max-width: 600px;"/>
 </div>
 
-<h2 align="center">
-    <img src="https://raw.githubusercontent.com/facebookresearch/detectron2/main/.github/Detectron2-Logo-Horz.svg" alt="Detectron2 Logo" style="width: 100%; max-width: 600px;"/>
-</h2>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/1381301/66535560-d3422200-eace-11e9-9123-5535d469db19.png" alt="AI Network" style="width: 100%; max-width: 600px;"/>
-</div>
-<div align="center">
-    <video autoplay loop muted playsinline src="https://s3.ezgif.com/tmp/ezgif-3-3ca6cfa9d7.gif" alt="Your Alt Text" style="width: 100%; max-width: 600px;"></video>
-</div>
+
 <br/>
 
 
