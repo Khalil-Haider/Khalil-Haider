@@ -30,7 +30,7 @@ I love exploring new AI technologies and applying them to solve real-world probl
     <a href="mailto:khalilhaider@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
-    <a href="https://linkedin.com/in/khalilhaider" target="_blank">
+    <a href="www.linkedin.com/in/khalil-haider-459216207" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </div>
