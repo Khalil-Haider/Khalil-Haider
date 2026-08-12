@@ -4,103 +4,107 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khalil+Haider!" alt="typing intro" />
 </h1>
 
-<h3 align="center">A passionate Computer Science student with a focus on Artificial Intelligence</h3>
+<h3 align="center">AI Engineer | RAG Pipelines · LLM Integration · Computer Vision · Voice AI</h3>
 
 ---
- 
-### 🌱 Current Learning Focus
 
-I am currently exploring applications of **Large Language Models (LLMs)** in various areas, including:
+### 🧠 What I Build
 
-- **Conversational AI**: Engaging in chat interactions using video, audio, and documents.
-- **Media Conversion**: Transforming videos to audio and audio to text.
-- **Speech Generation**: Converting text into natural-sounding voice outputs.
+I build **production-ready AI systems** — from RAG pipelines with hybrid search and reranking, to real-time computer vision, persona-driven voice cloning, and end-to-end LLM-powered applications.
 
-### 💬 Ask me about
-**Machine learning, deep learning, and data analysis**
+Currently serving as the **AI Pipeline Architect** for **SweetMemory AI** (live on Google Play) — designing persona extraction engines, memory RAG systems, and personality-matched voice synthesis.
 
-### ⚡ Fun fact
-I love exploring new AI technologies and applying them to solve real-world problems.
+---
 
+### 🤖 Core Expertise
 
+**LLMs & Generative AI**
+`OpenAI GPT-4o` `Google Gemini` `Groq` `Llama 3.1/3.3` `Gemma 3` `Qwen2-VL` `Ollama` `LangChain` `Prompt Engineering`
+
+**RAG & Vector Search**
+`Pinecone` `Qdrant` `FAISS` `Chroma` `Elasticsearch` `Hybrid Retrieval` `BM25` `CrossEncoder Reranking` `Embeddings (BGE-M3)`
+
+**Computer Vision**
+`YOLO v8/v11/YOLO26` `SAM / SAM 2 / SAM 3` `MediaPipe` `OpenCV` `OCR (docTR, PaddleOCR)` `FLUX.1` `Stable Diffusion` `Real-Time Video Analytics`
+
+**Voice AI & Speech**
+`Whisper V3` `WhisperX` `AssemblyAI` `Cartesia Sonic` `Kokoro TTS` `F5-TTS` `Chatterbox` `ElevenLabs` `Voice Cloning` `Emotion-Aware TTS`
+
+**ML & Deep Learning**
+`PyTorch` `TensorFlow` `scikit-learn` `XGBoost` `LightGBM` `Transfer Learning` `Optuna` `TPOT` `CNNs` `Feature Engineering`
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **SweetMemory AI** | Production AI pipeline for memory preservation with 3-layer persona extraction & voice cloning | Gemini · Pinecone · Qdrant · Cartesia · LangChain |
+| **RAG Media Intelligence** | Conversational Q&A over PDFs and transcribed audio/video with session memory | LangChain · Qdrant · Groq · AssemblyAI |
+| **Multimodal AI Assistant** | Hybrid retrieval (BM25 + FAISS) with CrossEncoder reranking + Whisper + Qwen2-VL | LangChain · FAISS · Whisper · Gemini · PyTorch |
+| **OCR Text Extraction** | Deep learning OCR with DB-ResNet50 + CRNN-VGG16 via docTR | docTR · PyTorch · OpenCV |
+
+---
+
+### 💬 Ask Me About
+
+**RAG architectures** · **LLM integration** · **Computer vision pipelines** · **Voice cloning & TTS** · **Persona-driven AI systems**
 
 <br/>
 
 <div align="center"> 
-    <a href="mailto:khalilhaider@gmail.com">
+    <a href="mailto:khkhalilhaider@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
-    <a href="www.linkedin.com/in/khalil-haider-459216207" target="_blank">
+    <a href="https://www.linkedin.com/in/khalil-haider-459216207" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </div>
 
 <hr/>
 
-<div align="center">
-    <img src="https://www.atomcamp.com/wp-content/uploads/2024/02/60f6fcbbeb0b8f57a7980a98_5f213db7c7763a9288759ad1_5eac2d0ef117c236e34cc0ff_DeepLearning.jpeg" alt="Deep Learning" style="width: 100%; max-width: 600px; margin-bottom: 20px;"/>
-</div>
-
-<h2 align="center">Computer Vision</h2>
-<div align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*ePDVAObHJ2LXEiBPzvh5Qg.png" alt="AI Image" style="width: 100%; max-width: 600px;"/>
-</div>
-
-
-<br/>
-
-
-<br/>
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 
+<div align="center">
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="50" style="margin-right: 10px;" title="Python"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" title="Python"/> 
 </a>
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="115" height="50" style="margin-right: 10px;" title="Pandas"/> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50" title="PyTorch"/> 
 </a>
-
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="185" height="50" style="margin-right: 50px;" title="Scikit-learn"/> 
-</a> 
-
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/64px-TensorFlowLogo.svg.png" alt="tensorflow" width="145" height="50" style="margin-right: 50px;" title="TensorFlow"/> 
-</a> 
-
-<a href="https://keras.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="145" height="50" style="margin-right: 50px;" title="Keras"/> 
-</a> 
-
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50" title="TensorFlow"/> 
+</a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="125" height="50" style="margin-right: 50px;" title="OpenCV"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="50" height="50" title="OpenCV"/> 
+</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" title="Pandas"/> 
+</a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50" title="Scikit-learn"/> 
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50" title="FastAPI"/> 
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" title="PostgreSQL"/> 
 </a>
 
-<a href="https://skillicons.dev/icons?i=vscode" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="115" height="50" title="Visual Studio Code"/> 
-</a>
-
+</div>
 
 <br/>
 <hr/>
 
-
-
-
-
-
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=khalilhaider&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=khalilhaider&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Khalil-Haider&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Khalil-Haider&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilhaider&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalil-Haider&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
