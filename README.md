@@ -15,14 +15,25 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
 
 <h2 align="center">🧠 What I Build</h2>
+<br/>
 
-<p align="center">
-  I build <b>production-ready AI systems</b> — from RAG pipelines with hybrid search and reranking, to real-time computer vision, persona-driven voice cloning, and end-to-end LLM-powered applications.
-</p>
-
-<p align="center">
-  Currently serving as the <b>AI Pipeline Architect</b> for <b>SweetMemory AI</b> (live on Google Play) — designing persona extraction engines, memory RAG systems, and personality-matched voice synthesis.
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="55%" valign="middle">
+      <br/>
+      <p>
+        🚀 &nbsp;I build <b>production-ready AI systems</b> — from RAG pipelines with hybrid search and reranking, to real-time computer vision, persona-driven voice cloning, and end-to-end LLM-powered applications.
+      </p>
+      <p>
+        🎯 &nbsp;Currently serving as the <b>AI Pipeline Architect</b> for <b>SweetMemory AI</b> (live on Google Play) — designing persona extraction engines, memory RAG systems, and personality-matched voice synthesis.
+      </p>
+      <br/>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="AI workspace animation"/>
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
 
