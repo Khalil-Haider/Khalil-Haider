@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=khalilhaider.khalilhaider" alt="visitor badge" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Khalil-Haider.Khalil-Haider" alt="visitor badge" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khalil+Haider!" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khalil+Haider!" alt="typing intro" />
 </h1>
 
 <h3 align="center">AI Engineer | RAG Pipelines · LLM Integration · Computer Vision · Voice AI</h3>
@@ -18,19 +18,19 @@ Currently serving as the **AI Pipeline Architect** for **SweetMemory AI** (live 
 
 ### 🤖 Core Expertise
 
-**LLMs & Generative AI**
+**LLMs & Generative AI**  
 `OpenAI GPT-4o` `Google Gemini` `Groq` `Llama 3.1/3.3` `Gemma 3` `Qwen2-VL` `Ollama` `LangChain` `Prompt Engineering`
 
-**RAG & Vector Search**
+**RAG & Vector Search**  
 `Pinecone` `Qdrant` `FAISS` `Chroma` `Elasticsearch` `Hybrid Retrieval` `BM25` `CrossEncoder Reranking` `Embeddings (BGE-M3)`
 
-**Computer Vision**
+**Computer Vision**  
 `YOLO v8/v11/YOLO26` `SAM / SAM 2 / SAM 3` `MediaPipe` `OpenCV` `OCR (docTR, PaddleOCR)` `FLUX.1` `Stable Diffusion` `Real-Time Video Analytics`
 
-**Voice AI & Speech**
+**Voice AI & Speech**  
 `Whisper V3` `WhisperX` `AssemblyAI` `Cartesia Sonic` `Kokoro TTS` `F5-TTS` `Chatterbox` `ElevenLabs` `Voice Cloning` `Emotion-Aware TTS`
 
-**ML & Deep Learning**
+**ML & Deep Learning**  
 `PyTorch` `TensorFlow` `scikit-learn` `XGBoost` `LightGBM` `Transfer Learning` `Optuna` `TPOT` `CNNs` `Feature Engineering`
 
 ---
@@ -99,12 +99,14 @@ Currently serving as the **AI Pipeline Architect** for **SweetMemory AI** (live 
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<br/>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Khalil-Haider&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Khalil-Haider&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <a href="https://git.io/streak-stats">
+    <img width="390" src="https://streak-stats.demolab.com/?user=Khalil-Haider&theme=react&border_radius=10" alt="streak stats"/>
+  </a>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Khalil-Haider&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalil-Haider&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalil-Haider&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
