@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Khalil-Haider.Khalil-Haider" alt="visitor badge" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khalil+Haider!" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I'm+Khalil+Haider!" alt="typing intro" />
 </h1>
 
 <h3 align="center">AI Engineer | RAG Pipelines · LLM Integration · Computer Vision · Voice AI</h3>
@@ -101,12 +101,12 @@ Currently serving as the **AI Pipeline Architect** for **SweetMemory AI** (live 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img width="390" src="https://streak-stats.demolab.com/?user=Khalil-Haider&theme=react&border_radius=10" alt="streak stats"/>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img width="390" src="./profile/streak.svg" alt="GitHub Streak"/>
   </a>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Khalil-Haider&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Khalil-Haider&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&cache_seconds=86400" alt="readme stats" />
   <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalil-Haider&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalil-Haider&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&cache_seconds=86400" alt="top langs" />
 </div>
 
 <br/><br/>
